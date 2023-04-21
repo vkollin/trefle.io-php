@@ -1,0 +1,883 @@
+{
+  "data": {
+    "id": 264892,
+    "common_name": "Garden strawberry",
+    "slug": "fragaria-x-ananassa",
+    "scientific_name": "Fragaria \u00d7 ananassa",
+    "year": 1785,
+    "bibliography": "Cours Compl. Agric. 5: 52 (1785)",
+    "author": "(Duchesne ex Weston) Duchesne ex Rozier",
+    "status": "accepted",
+    "rank": "hybrid",
+    "family_common_name": "Rose family",
+    "genus_id": 12147,
+    "observations": "a naturalised artificial hybrid",
+    "vegetable": false,
+    "image_url": "https:\/\/bs.plantnet.org\/image\/o\/6d61250dd16e0ee4d5ebe59fc283440f8376e3f5",
+    "genus": "Fragaria",
+    "family": "Rosaceae",
+    "duration": null,
+    "edible_part": null,
+    "edible": false,
+    "images": {
+      "flower": [
+        {
+          "id": 465845,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/0e0f3890c5c51f6462bd793e4e0dba9e7941e1f1",
+          "copyright": "Taken Jun 27, 2022 by megadex (cc-by-sa)"
+        },
+        {
+          "id": 465846,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/71f9cf0e2ef6b5b9f289537c60a4e43a838bfd56",
+          "copyright": "Taken Jun 2, 2022 by Henry ourox (cc-by-sa)"
+        },
+        {
+          "id": 465847,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/4ac070a8826d13674226eb1cb72c4aba06e01c5b",
+          "copyright": "Taken May 22, 2022 by t. ray (cc-by-sa)"
+        },
+        {
+          "id": 465848,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/a6b42d2f72bb7a668715d65d06031a40f9d0003a",
+          "copyright": "Taken Feb 19, 2020 by Carla Duval (cc-by-sa)"
+        },
+        {
+          "id": 465849,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/3f6d9b7b096c03a8c824009202a7330a3f7a858e",
+          "copyright": "Taken Mar 9, 2015 by Muhammad Falah (cc-by-sa)"
+        }
+      ],
+      "leaf": [
+        {
+          "id": 465850,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/a3b3a9f7bd52fc1e6d052de2324da312c138dec2",
+          "copyright": "Taken Nov 5, 2021 by \u212d\ud835\udd29\ud835\udd1e\ud835\udd2f\ud835\udd26\ud835\udd30\ud835\udd30\ud835\udd22 (cc-by-sa)"
+        },
+        {
+          "id": 465851,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/fb5a7eeabd29757d87f7e64f6894991eb675bca8",
+          "copyright": "Taken Nov 28, 2021 by leandro santos (cc-by-sa)"
+        },
+        {
+          "id": 465852,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/1f14dd6ecdc399e3517a145ddffe89fc817ffd0b",
+          "copyright": "Taken Jul 27, 2022 by Eric Bunuan (cc-by-sa)"
+        },
+        {
+          "id": 465853,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/c0d97ed8cd946101ed984f2140fdce84b0fd67c4",
+          "copyright": "Taken Dec 13, 2021 by Santacruz Paola (cc-by-sa)"
+        },
+        {
+          "id": 465854,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/30bd4625311ea2087b0144e08a6d51310180ec0a",
+          "copyright": "Taken Oct 20, 2021 by J\u00falio C\u00e9sar O Vital (cc-by-sa)"
+        }
+      ],
+      "fruit": [
+        {
+          "id": 465855,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/6d61250dd16e0ee4d5ebe59fc283440f8376e3f5",
+          "copyright": "Taken Jun 6, 2022 by dr. (cc-by-sa)"
+        },
+        {
+          "id": 465856,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/68910625f640c6ab413c7be4bf0aba30d86d5da7",
+          "copyright": "Taken Dec 19, 2021 by Busch Ana (cc-by-sa)"
+        },
+        {
+          "id": 465857,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/118fa074146914d958f705d67a769595fcc1aebf",
+          "copyright": "Taken Jun 10, 2021 by SECTION ST 26 (cc-by-sa)"
+        },
+        {
+          "id": 465858,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/ba56ecea59bdcdd40a97c4f77a873aee49ec590a",
+          "copyright": "Taken May 30, 2022 by William Coville (cc-by-sa)"
+        },
+        {
+          "id": 465859,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/6513fc6e42f1792c1e62109e8fb235da620e6dcc",
+          "copyright": "Taken May 30, 2022 by William Coville (cc-by-sa)"
+        }
+      ],
+      "habit": [
+        {
+          "id": 465862,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/d9e64a38552a76a113a0c40a6cfbc243d1c6b561",
+          "copyright": "Taken Jun 12, 2022 by \u212d\ud835\udd29\ud835\udd1e\ud835\udd2f\ud835\udd26\ud835\udd30\ud835\udd30\ud835\udd22 (cc-by-sa)"
+        },
+        {
+          "id": 465864,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/fb8fa71a22037c73d4fe6aa2a7296fa4ef3d5677",
+          "copyright": "Taken May 14, 2022 by Pe\u00f1a Ramirez (cc-by-sa)"
+        },
+        {
+          "id": 465865,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/8fabbabfd08b0a415669efdbdfb0caaf29e9ff58",
+          "copyright": "Taken Dec 23, 2020 by Shehadi Ramiz (cc-by-sa)"
+        },
+        {
+          "id": 465866,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/3f1f88e0e0f0464385b6ce1ff58df346797605ee",
+          "copyright": "Taken Nov 13, 2021 by Trap Hers (cc-by-sa)"
+        },
+        {
+          "id": 465867,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/9903667db3d2b44b6a3ffd2d8f4ac1945e69bb11",
+          "copyright": "Taken Jun 22, 2022 by Arnaud (cc-by-sa)"
+        }
+      ],
+      "bark": [
+        {
+          "id": 465868,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/2d4b61d03948d0dff334f3c72a9a0ff658a2d1a0",
+          "copyright": "Taken Nov 21, 2020 by miranda raison (cc-by-sa)"
+        },
+        {
+          "id": 465869,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/9e0c3761e87677500bf84abd055f6b7c9ee9f2bd",
+          "copyright": "Taken Nov 6, 2021 by maria clara mc pereira (cc-by-sa)"
+        }
+      ],
+      "other": [
+        {
+          "id": 465870,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/b4bfdd28e97475646cd162237e5703acc52aeec5",
+          "copyright": "Taken Mar 30, 2020 by Rodriguez Nuria (cc-by-sa)"
+        },
+        {
+          "id": 465871,
+          "image_url": "https:\/\/bs.plantnet.org\/image\/o\/f9a8124a78c8044e54a3d9b8eb49cb775f66c640",
+          "copyright": "Taken May 8, 2022 by fateme ziaraty (cc-by-sa)"
+        }
+      ],
+      "": [
+        {
+          "id": 465842,
+          "image_url": "https:\/\/d2seqvvyy3b8p2.cloudfront.net\/991722f8270c1b6b64b351ad53476767.jpg",
+          "copyright": "\u00a9 copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+        },
+        {
+          "id": 465843,
+          "image_url": "https:\/\/d2seqvvyy3b8p2.cloudfront.net\/11c630e36f38bf4595873e20f6e82f67.jpg",
+          "copyright": "\u00a9 copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+        },
+        {
+          "id": 465844,
+          "image_url": "https:\/\/d2seqvvyy3b8p2.cloudfront.net\/1b2b4d94ef64cac541d491a3e8f78b6e.jpg",
+          "copyright": "\u00a9 copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+        }
+      ]
+    },
+    "common_names": {
+      "en": [
+        "Garden Strawberry",
+        "Strawberry"
+      ],
+      "da": [
+        "Chile-jordb\u00e6r \u00d7 skarlagen-jordb\u00e6r",
+        "Have-jordb\u00e6r"
+      ],
+      "fi": [
+        "Puutarhamansikka"
+      ],
+      "fr": [
+        "Fraisier",
+        "Fraisier ananas"
+      ],
+      "de": [
+        "Ananas-Erdbeere",
+        "Ananaserdbeere",
+        "Erdbeere",
+        "Garten-Erdbeere",
+        "Gartenerdbeere",
+        "Kultur-Erdbeere",
+        "Kulturerdbeere"
+      ],
+      "lt": [
+        "Dar\u017ein\u0117 bra\u0161k\u0117"
+      ],
+      "se": [
+        "Eanamuorji",
+        "Gilvvag\u00e1rdeeanamuorji"
+      ],
+      "nb": [
+        "Hagejordb\u00e6r"
+      ],
+      "nn": [
+        "Hagejordb\u00e6r"
+      ],
+      "pt": [
+        "Morango",
+        "Morangueiro",
+        "Moranguinho"
+      ],
+      "es": [
+        "Fresa",
+        "Fresa anan\u00e1s"
+      ],
+      "sv": [
+        "Jordgubbar",
+        "Puutarhamansikka",
+        "Jordgubbe"
+      ]
+    },
+    "distribution": {
+      "native": [
+        "British Columbia",
+        "California",
+        "Oregon",
+        "Washington"
+      ],
+      "introduced": [
+        "Albania",
+        "Baltic States",
+        "Belarus",
+        "Central European Rus",
+        "Denmark",
+        "East European Russia",
+        "El Salvador",
+        "Finland",
+        "France",
+        "Germany",
+        "Great Britain",
+        "Guatemala",
+        "Honduras",
+        "Illinois",
+        "Ireland",
+        "Italy",
+        "Japan",
+        "Korea",
+        "Netherlands",
+        "New York",
+        "North European Russi",
+        "Northwest European R",
+        "Norway",
+        "Pitcairn Is.",
+        "South European Russi",
+        "Sweden",
+        "Switzerland",
+        "Tadzhikistan",
+        "Turkey",
+        "Turkmenistan",
+        "Vermont"
+      ]
+    },
+    "distributions": {
+      "native": [
+        {
+          "id": 297,
+          "name": "British Columbia",
+          "slug": "brc",
+          "tdwg_code": "BRC",
+          "tdwg_level": 3,
+          "species_count": 3933,
+          "links": {
+            "self": "\/api\/v1\/distributions\/brc",
+            "plants": "\/api\/v1\/distributions\/brc\/plants",
+            "species": "\/api\/v1\/distributions\/brc\/species"
+          }
+        },
+        {
+          "id": 211,
+          "name": "California",
+          "slug": "cal",
+          "tdwg_code": "CAL",
+          "tdwg_level": 3,
+          "species_count": 9638,
+          "links": {
+            "self": "\/api\/v1\/distributions\/cal",
+            "plants": "\/api\/v1\/distributions\/cal\/plants",
+            "species": "\/api\/v1\/distributions\/cal\/species"
+          }
+        },
+        {
+          "id": 315,
+          "name": "Oregon",
+          "slug": "ore",
+          "tdwg_code": "ORE",
+          "tdwg_level": 3,
+          "species_count": 5526,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ore",
+            "plants": "\/api\/v1\/distributions\/ore\/plants",
+            "species": "\/api\/v1\/distributions\/ore\/species"
+          }
+        },
+        {
+          "id": 302,
+          "name": "Washington",
+          "slug": "was",
+          "tdwg_code": "WAS",
+          "tdwg_level": 3,
+          "species_count": 4311,
+          "links": {
+            "self": "\/api\/v1\/distributions\/was",
+            "plants": "\/api\/v1\/distributions\/was\/plants",
+            "species": "\/api\/v1\/distributions\/was\/species"
+          }
+        }
+      ],
+      "introduced": [
+        {
+          "id": 93,
+          "name": "Albania",
+          "slug": "alb",
+          "tdwg_code": "ALB",
+          "tdwg_level": 3,
+          "species_count": 5073,
+          "links": {
+            "self": "\/api\/v1\/distributions\/alb",
+            "plants": "\/api\/v1\/distributions\/alb\/plants",
+            "species": "\/api\/v1\/distributions\/alb\/species"
+          }
+        },
+        {
+          "id": 276,
+          "name": "Baltic States",
+          "slug": "blt",
+          "tdwg_code": "BLT",
+          "tdwg_level": 3,
+          "species_count": 2847,
+          "links": {
+            "self": "\/api\/v1\/distributions\/blt",
+            "plants": "\/api\/v1\/distributions\/blt\/plants",
+            "species": "\/api\/v1\/distributions\/blt\/species"
+          }
+        },
+        {
+          "id": 277,
+          "name": "Belarus",
+          "slug": "blr",
+          "tdwg_code": "BLR",
+          "tdwg_level": 3,
+          "species_count": 2372,
+          "links": {
+            "self": "\/api\/v1\/distributions\/blr",
+            "plants": "\/api\/v1\/distributions\/blr\/plants",
+            "species": "\/api\/v1\/distributions\/blr\/species"
+          }
+        },
+        {
+          "id": 279,
+          "name": "Central European Rus",
+          "slug": "ruc",
+          "tdwg_code": "RUC",
+          "tdwg_level": 3,
+          "species_count": 3157,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ruc",
+            "plants": "\/api\/v1\/distributions\/ruc\/plants",
+            "species": "\/api\/v1\/distributions\/ruc\/species"
+          }
+        },
+        {
+          "id": 280,
+          "name": "Denmark",
+          "slug": "den",
+          "tdwg_code": "DEN",
+          "tdwg_level": 3,
+          "species_count": 2996,
+          "links": {
+            "self": "\/api\/v1\/distributions\/den",
+            "plants": "\/api\/v1\/distributions\/den\/plants",
+            "species": "\/api\/v1\/distributions\/den\/species"
+          }
+        },
+        {
+          "id": 281,
+          "name": "East European Russia",
+          "slug": "rue",
+          "tdwg_code": "RUE",
+          "tdwg_level": 3,
+          "species_count": 3526,
+          "links": {
+            "self": "\/api\/v1\/distributions\/rue",
+            "plants": "\/api\/v1\/distributions\/rue\/plants",
+            "species": "\/api\/v1\/distributions\/rue\/species"
+          }
+        },
+        {
+          "id": 84,
+          "name": "El Salvador",
+          "slug": "els",
+          "tdwg_code": "ELS",
+          "tdwg_level": 3,
+          "species_count": 4268,
+          "links": {
+            "self": "\/api\/v1\/distributions\/els",
+            "plants": "\/api\/v1\/distributions\/els\/plants",
+            "species": "\/api\/v1\/distributions\/els\/species"
+          }
+        },
+        {
+          "id": 282,
+          "name": "Finland",
+          "slug": "fin",
+          "tdwg_code": "FIN",
+          "tdwg_level": 3,
+          "species_count": 3400,
+          "links": {
+            "self": "\/api\/v1\/distributions\/fin",
+            "plants": "\/api\/v1\/distributions\/fin\/plants",
+            "species": "\/api\/v1\/distributions\/fin\/species"
+          }
+        },
+        {
+          "id": 126,
+          "name": "France",
+          "slug": "fra",
+          "tdwg_code": "FRA",
+          "tdwg_level": 3,
+          "species_count": 9809,
+          "links": {
+            "self": "\/api\/v1\/distributions\/fra",
+            "plants": "\/api\/v1\/distributions\/fra\/plants",
+            "species": "\/api\/v1\/distributions\/fra\/species"
+          }
+        },
+        {
+          "id": 284,
+          "name": "Germany",
+          "slug": "ger",
+          "tdwg_code": "GER",
+          "tdwg_level": 3,
+          "species_count": 6595,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ger",
+            "plants": "\/api\/v1\/distributions\/ger\/plants",
+            "species": "\/api\/v1\/distributions\/ger\/species"
+          }
+        },
+        {
+          "id": 127,
+          "name": "Great Britain",
+          "slug": "grb",
+          "tdwg_code": "GRB",
+          "tdwg_level": 3,
+          "species_count": 5424,
+          "links": {
+            "self": "\/api\/v1\/distributions\/grb",
+            "plants": "\/api\/v1\/distributions\/grb\/plants",
+            "species": "\/api\/v1\/distributions\/grb\/species"
+          }
+        },
+        {
+          "id": 156,
+          "name": "Guatemala",
+          "slug": "gua",
+          "tdwg_code": "GUA",
+          "tdwg_level": 3,
+          "species_count": 9208,
+          "links": {
+            "self": "\/api\/v1\/distributions\/gua",
+            "plants": "\/api\/v1\/distributions\/gua\/plants",
+            "species": "\/api\/v1\/distributions\/gua\/species"
+          }
+        },
+        {
+          "id": 87,
+          "name": "Honduras",
+          "slug": "hon",
+          "tdwg_code": "HON",
+          "tdwg_level": 3,
+          "species_count": 7669,
+          "links": {
+            "self": "\/api\/v1\/distributions\/hon",
+            "plants": "\/api\/v1\/distributions\/hon\/plants",
+            "species": "\/api\/v1\/distributions\/hon\/species"
+          }
+        },
+        {
+          "id": 145,
+          "name": "Illinois",
+          "slug": "ill",
+          "tdwg_code": "ILL",
+          "tdwg_level": 3,
+          "species_count": 4133,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ill",
+            "plants": "\/api\/v1\/distributions\/ill\/plants",
+            "species": "\/api\/v1\/distributions\/ill\/species"
+          }
+        },
+        {
+          "id": 286,
+          "name": "Ireland",
+          "slug": "ire",
+          "tdwg_code": "IRE",
+          "tdwg_level": 3,
+          "species_count": 2458,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ire",
+            "plants": "\/api\/v1\/distributions\/ire\/plants",
+            "species": "\/api\/v1\/distributions\/ire\/species"
+          }
+        },
+        {
+          "id": 119,
+          "name": "Italy",
+          "slug": "ita",
+          "tdwg_code": "ITA",
+          "tdwg_level": 3,
+          "species_count": 9715,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ita",
+            "plants": "\/api\/v1\/distributions\/ita\/plants",
+            "species": "\/api\/v1\/distributions\/ita\/species"
+          }
+        },
+        {
+          "id": 202,
+          "name": "Japan",
+          "slug": "jap",
+          "tdwg_code": "JAP",
+          "tdwg_level": 3,
+          "species_count": 7420,
+          "links": {
+            "self": "\/api\/v1\/distributions\/jap",
+            "plants": "\/api\/v1\/distributions\/jap\/plants",
+            "species": "\/api\/v1\/distributions\/jap\/species"
+          }
+        },
+        {
+          "id": 226,
+          "name": "Korea",
+          "slug": "kor",
+          "tdwg_code": "KOR",
+          "tdwg_level": 3,
+          "species_count": 4683,
+          "links": {
+            "self": "\/api\/v1\/distributions\/kor",
+            "plants": "\/api\/v1\/distributions\/kor\/plants",
+            "species": "\/api\/v1\/distributions\/kor\/species"
+          }
+        },
+        {
+          "id": 287,
+          "name": "Netherlands",
+          "slug": "net",
+          "tdwg_code": "NET",
+          "tdwg_level": 3,
+          "species_count": 2998,
+          "links": {
+            "self": "\/api\/v1\/distributions\/net",
+            "plants": "\/api\/v1\/distributions\/net\/plants",
+            "species": "\/api\/v1\/distributions\/net\/species"
+          }
+        },
+        {
+          "id": 237,
+          "name": "New York",
+          "slug": "nwy",
+          "tdwg_code": "NWY",
+          "tdwg_level": 3,
+          "species_count": 4781,
+          "links": {
+            "self": "\/api\/v1\/distributions\/nwy",
+            "plants": "\/api\/v1\/distributions\/nwy\/plants",
+            "species": "\/api\/v1\/distributions\/nwy\/species"
+          }
+        },
+        {
+          "id": 289,
+          "name": "North European Russi",
+          "slug": "run",
+          "tdwg_code": "RUN",
+          "tdwg_level": 3,
+          "species_count": 2656,
+          "links": {
+            "self": "\/api\/v1\/distributions\/run",
+            "plants": "\/api\/v1\/distributions\/run\/plants",
+            "species": "\/api\/v1\/distributions\/run\/species"
+          }
+        },
+        {
+          "id": 290,
+          "name": "Northwest European R",
+          "slug": "ruw",
+          "tdwg_code": "RUW",
+          "tdwg_level": 3,
+          "species_count": 2333,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ruw",
+            "plants": "\/api\/v1\/distributions\/ruw\/plants",
+            "species": "\/api\/v1\/distributions\/ruw\/species"
+          }
+        },
+        {
+          "id": 291,
+          "name": "Norway",
+          "slug": "nor",
+          "tdwg_code": "NOR",
+          "tdwg_level": 3,
+          "species_count": 3444,
+          "links": {
+            "self": "\/api\/v1\/distributions\/nor",
+            "plants": "\/api\/v1\/distributions\/nor\/plants",
+            "species": "\/api\/v1\/distributions\/nor\/species"
+          }
+        },
+        {
+          "id": 335,
+          "name": "Pitcairn Is.",
+          "slug": "pit",
+          "tdwg_code": "PIT",
+          "tdwg_level": 3,
+          "species_count": 240,
+          "links": {
+            "self": "\/api\/v1\/distributions\/pit",
+            "plants": "\/api\/v1\/distributions\/pit\/plants",
+            "species": "\/api\/v1\/distributions\/pit\/species"
+          }
+        },
+        {
+          "id": 270,
+          "name": "South European Russi",
+          "slug": "rus",
+          "tdwg_code": "RUS",
+          "tdwg_level": 3,
+          "species_count": 3169,
+          "links": {
+            "self": "\/api\/v1\/distributions\/rus",
+            "plants": "\/api\/v1\/distributions\/rus\/plants",
+            "species": "\/api\/v1\/distributions\/rus\/species"
+          }
+        },
+        {
+          "id": 293,
+          "name": "Sweden",
+          "slug": "swe",
+          "tdwg_code": "SWE",
+          "tdwg_level": 3,
+          "species_count": 5175,
+          "links": {
+            "self": "\/api\/v1\/distributions\/swe",
+            "plants": "\/api\/v1\/distributions\/swe\/plants",
+            "species": "\/api\/v1\/distributions\/swe\/species"
+          }
+        },
+        {
+          "id": 294,
+          "name": "Switzerland",
+          "slug": "swi",
+          "tdwg_code": "SWI",
+          "tdwg_level": 3,
+          "species_count": 5575,
+          "links": {
+            "self": "\/api\/v1\/distributions\/swi",
+            "plants": "\/api\/v1\/distributions\/swi\/plants",
+            "species": "\/api\/v1\/distributions\/swi\/species"
+          }
+        },
+        {
+          "id": 271,
+          "name": "Tadzhikistan",
+          "slug": "tzk",
+          "tdwg_code": "TZK",
+          "tdwg_level": 3,
+          "species_count": 5072,
+          "links": {
+            "self": "\/api\/v1\/distributions\/tzk",
+            "plants": "\/api\/v1\/distributions\/tzk\/plants",
+            "species": "\/api\/v1\/distributions\/tzk\/species"
+          }
+        },
+        {
+          "id": 107,
+          "name": "Turkey",
+          "slug": "tur",
+          "tdwg_code": "TUR",
+          "tdwg_level": 3,
+          "species_count": 12211,
+          "links": {
+            "self": "\/api\/v1\/distributions\/tur",
+            "plants": "\/api\/v1\/distributions\/tur\/plants",
+            "species": "\/api\/v1\/distributions\/tur\/species"
+          }
+        },
+        {
+          "id": 337,
+          "name": "Turkmenistan",
+          "slug": "tkm",
+          "tdwg_code": "TKM",
+          "tdwg_level": 3,
+          "species_count": 3216,
+          "links": {
+            "self": "\/api\/v1\/distributions\/tkm",
+            "plants": "\/api\/v1\/distributions\/tkm\/plants",
+            "species": "\/api\/v1\/distributions\/tkm\/species"
+          }
+        },
+        {
+          "id": 243,
+          "name": "Vermont",
+          "slug": "ver",
+          "tdwg_code": "VER",
+          "tdwg_level": 3,
+          "species_count": 2952,
+          "links": {
+            "self": "\/api\/v1\/distributions\/ver",
+            "plants": "\/api\/v1\/distributions\/ver\/plants",
+            "species": "\/api\/v1\/distributions\/ver\/species"
+          }
+        }
+      ]
+    },
+    "flower": {
+      "color": null,
+      "conspicuous": true
+    },
+    "foliage": {
+      "texture": "fine",
+      "color": null,
+      "leaf_retention": null
+    },
+    "fruit_or_seed": {
+      "conspicuous": true,
+      "color": null,
+      "shape": null,
+      "seed_persistence": null
+    },
+    "sources": [
+      {
+        "last_update": "2022-12-05T16:53:13.334Z",
+        "id": "wfo-0001005541",
+        "name": "WFO",
+        "url": null,
+        "citation": null
+      },
+      {
+        "last_update": "2022-12-09T05:55:29.561Z",
+        "id": "urn:lsid:ipni.org:names:30117681-2",
+        "name": "POWO",
+        "url": "http:\/\/powo.science.kew.org\/taxon\/urn:lsid:ipni.org:names:30117681-2",
+        "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http:\/\/www.plantsoftheworldonline.org\/ Retrieved 2022-12-09"
+      },
+      {
+        "last_update": "2022-12-09T05:55:31.336Z",
+        "id": "Fragaria \u00d7 ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+        "name": "PlantNet",
+        "url": "https:\/\/identify.plantnet.org\/species\/the-plant-list\/Fragaria \u00d7 ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+        "citation": null
+      },
+      {
+        "last_update": "2022-12-09T05:55:31.360Z",
+        "id": "3029912",
+        "name": "GBIF",
+        "url": "https:\/\/www.gbif.org\/species\/3029912",
+        "citation": null
+      }
+    ],
+    "specifications": {
+      "ligneous_type": null,
+      "growth_form": null,
+      "growth_habit": "Forb\/herb",
+      "growth_rate": null,
+      "average_height": {
+        "cm": null
+      },
+      "maximum_height": {
+        "cm": null
+      },
+      "nitrogen_fixation": null,
+      "shape_and_orientation": null,
+      "toxicity": null
+    },
+    "synonyms": [
+      {
+        "id": 688063,
+        "name": "Fragaria chiloensis var. ananassa",
+        "author": "Duchesne ex Weston",
+        "sources": [
+          {
+            "last_update": "2022-12-09T05:55:29.595Z",
+            "id": "urn:lsid:ipni.org:names:60441588-2",
+            "name": "POWO",
+            "url": "http:\/\/powo.science.kew.org\/taxon\/urn:lsid:ipni.org:names:60441588-2",
+            "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http:\/\/www.plantsoftheworldonline.org\/ Retrieved 2022-12-09"
+          }
+        ]
+      },
+      {
+        "id": 688064,
+        "name": "Fragaria vesca var. ananassa",
+        "author": "(Duchesne ex Weston) Aiton",
+        "sources": [
+          {
+            "last_update": "2022-12-09T05:55:29.620Z",
+            "id": "urn:lsid:ipni.org:names:2948971-4",
+            "name": "POWO",
+            "url": "http:\/\/powo.science.kew.org\/taxon\/urn:lsid:ipni.org:names:2948971-4",
+            "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http:\/\/www.plantsoftheworldonline.org\/ Retrieved 2022-12-09"
+          }
+        ]
+      },
+      {
+        "id": 688065,
+        "name": "Potentilla \u00d7 ananassa",
+        "author": "(Duchesne ex Weston) Mabb.",
+        "sources": [
+          {
+            "last_update": "2022-12-09T05:55:29.654Z",
+            "id": "urn:lsid:ipni.org:names:20007245-1",
+            "name": "POWO",
+            "url": "http:\/\/powo.science.kew.org\/taxon\/urn:lsid:ipni.org:names:20007245-1",
+            "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http:\/\/www.plantsoftheworldonline.org\/ Retrieved 2022-12-09"
+          }
+        ]
+      }
+    ],
+    "growth": {
+      "description": "There are three main types of strawberries: 1) summer-fruiting: produce a single, large crop of fruit the year after planting. To grow, transplant plugs or crowns in early spring in rows spaced at least 120cm apart. Pinch off all flowers the first season and train the plant's runners, pressing them into the soil 15-22cm apart from the mother plant. Mulch with straw or pine needles in the fall when the plants have died back. When the plants start to grow back in the spring, move the mulch aside. After harvest the second season, set a lawnmower to about 10cm high and mow, being sure not to damage crowns. The other two types are 2) Ever-bearing and 3) Day Neutral, both of which send out less runners and bear several crops of smaller fruit throughout the season. These two types can be grown using raised beds about 20cm high and 60cm wide. Transplant crowns or plugs in staggered double rows, about 30cm apart. Remove runners and flowers until July of the first year to give the roots time to develop, and then allow plants to produce fruit. All types of strawberries begin to produce fewer and less sweet fruit once they are two years or older. Because strawberries are a hybrid, seeds will not breed true. Strawberries are predominantly propagated using bare root plugs or crowns or dividing runners. Make sure not to bury the crown when transplanting plugs.",
+      "sowing": "Transplant bare root plants\/plugs or divide runners",
+      "days_to_harvest": 60,
+      "row_spacing": {
+        "cm": 35
+      },
+      "spread": {
+        "cm": 30
+      },
+      "ph_maximum": 6.5,
+      "ph_minimum": 5.5,
+      "light": 8,
+      "atmospheric_humidity": 4,
+      "growth_months": null,
+      "bloom_months": null,
+      "fruit_months": null,
+      "minimum_precipitation": {
+        "mm": null
+      },
+      "maximum_precipitation": {
+        "mm": null
+      },
+      "minimum_root_depth": {
+        "cm": null
+      },
+      "minimum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "maximum_temperature": {
+        "deg_f": null,
+        "deg_c": null
+      },
+      "soil_nutriments": 6,
+      "soil_salinity": 1,
+      "soil_texture": null,
+      "soil_humidity": 5
+    },
+    "links": {
+      "self": "\/api\/v1\/species\/fragaria-x-ananassa",
+      "plant": "\/api\/v1\/plants\/fragaria-x-ananassa",
+      "genus": "\/api\/v1\/genus\/fragaria"
+    }
+  },
+  "meta": {
+    "images_count": 27,
+    "sources_count": 4,
+    "synonyms_count": 0,
+    "last_modified": "2022-12-17T15:15:10.586Z"
+  }
+}

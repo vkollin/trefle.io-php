@@ -1,0 +1,1157 @@
+{
+  "data": {
+    "id": 136909,
+    "common_name": "Canada balsam",
+    "slug": "abies-balsamea",
+    "scientific_name": "Abies balsamea",
+    "main_species_id": 136848,
+    "image_url": "https://bs.plantnet.org/image/o/46adef49b83992d971359f4080559520b1363920",
+    "year": 1768,
+    "bibliography": "Gard. Dict. ed. 8: n.º 3 (1768)",
+    "author": "(L.) Mill.",
+    "family_common_name": "Pine family",
+    "genus_id": 7230,
+    "observations": "C. & E. Canada to Virginia",
+    "vegetable": false,
+    "links": {
+      "self": "/api/v1/plants/abies-balsamea",
+      "species": "/api/v1/plants/abies-balsamea/species",
+      "genus": "/api/v1/genus/abies"
+    },
+    "main_species": {
+      "id": 136848,
+      "common_name": "Canada balsam",
+      "slug": "abies-balsamea",
+      "scientific_name": "Abies balsamea",
+      "year": 1768,
+      "bibliography": "Gard. Dict. ed. 8: n.º 3 (1768)",
+      "author": "(L.) Mill.",
+      "status": "accepted",
+      "rank": "species",
+      "family_common_name": "Pine family",
+      "genus_id": 7230,
+      "observations": "C. & E. Canada to Virginia",
+      "vegetable": false,
+      "image_url": "https://bs.plantnet.org/image/o/46adef49b83992d971359f4080559520b1363920",
+      "genus": "Abies",
+      "family": "Pinaceae",
+      "duration": null,
+      "edible_part": null,
+      "edible": false,
+      "images": {
+        "fruit": [
+          {
+            "id": 239045,
+            "image_url": "https://bs.plantnet.org/image/o/d3aa974dbf6f2c18315a9b1fd7981e5674fe9d9a",
+            "copyright": "Taken Jan 1, 1900 by EOL − Bill Cook (cc-by)"
+          },
+          {
+            "id": 239046,
+            "image_url": "https://bs.plantnet.org/image/o/70a04f1d84136543981a346808a682ed8af454a6",
+            "copyright": "Taken Jul 26, 2019 by Andrea (cc-by-sa)"
+          },
+          {
+            "id": 239047,
+            "image_url": "https://bs.plantnet.org/image/o/ead2db605eeb3f31a70acd86edc4ade840e58d36",
+            "copyright": "Taken Jul 4, 2021 by Mateusz H (cc-by-sa)"
+          },
+          {
+            "id": 239048,
+            "image_url": "https://bs.plantnet.org/image/o/b21d81de01406ce39ab46e059e568f2d64f43286",
+            "copyright": "Taken May 31, 2018 by Alexander Vocaet (cc-by-sa)"
+          },
+          {
+            "id": 239049,
+            "image_url": "https://bs.plantnet.org/image/o/d82e34f93f2b8e39d436f50ae22e0da50834192d",
+            "copyright": "Taken Jul 14, 2019 by Catalin Gruia (cc-by-sa)"
+          }
+        ],
+        "flower": [
+          {
+            "id": 239065,
+            "image_url": "https://bs.plantnet.org/image/o/dc478a6690cbc27919bc600020ac7d1ba8ec777d",
+            "copyright": "Taken Nov 2, 2022 by Michel AMBROISE (cc-by-sa)"
+          },
+          {
+            "id": 239066,
+            "image_url": "https://bs.plantnet.org/image/o/3ee5e2149a9888bb690ce0a43c548a30ef1156fb",
+            "copyright": "Taken Oct 6, 2022 by Andrè Otheri (cc-by-sa)"
+          },
+          {
+            "id": 239067,
+            "image_url": "https://bs.plantnet.org/image/o/d92a09c27d5d8537617f17154c81ee834284c798",
+            "copyright": "Taken Apr 26, 2020 by ernst von freyberg (cc-by-sa)"
+          }
+        ],
+        "leaf": [
+          {
+            "id": 239068,
+            "image_url": "https://bs.plantnet.org/image/o/045bfb2f7a7b43196b82c9b8390f4e0b00afcd62",
+            "copyright": "Taken Oct 23, 2020 by kathy gilbert (cc-by-sa)"
+          },
+          {
+            "id": 239069,
+            "image_url": "https://bs.plantnet.org/image/o/09c30b4c945dd19682827b98187bbc337547411e",
+            "copyright": "Taken Jan 3, 2018 by David Andreu (cc-by-sa)"
+          },
+          {
+            "id": 239070,
+            "image_url": "https://bs.plantnet.org/image/o/3e8ce9de23f64ba54a9aa782809bf33adfea9d20",
+            "copyright": "Taken Sep 23, 2020 by Chanl GW (cc-by-sa)"
+          },
+          {
+            "id": 239071,
+            "image_url": "https://bs.plantnet.org/image/o/897cdacb13bd5161671c25bf8c6158b228edf966",
+            "copyright": "Taken Apr 22, 2015 by EOL − Erika Mitchell (cc-by-nc)"
+          },
+          {
+            "id": 239072,
+            "image_url": "https://bs.plantnet.org/image/o/d63b9a6a38ee6ce2b62eadbd79ca0c9e6220b66c",
+            "copyright": "Taken Dec 8, 2015 by EOL − Erika Mitchell (cc-by-nc)"
+          }
+        ],
+        "bark": [
+          {
+            "id": 239073,
+            "image_url": "https://bs.plantnet.org/image/o/06c375d3ef80b5befbdf58006fa8a9c7b590cc5b",
+            "copyright": "Taken Jul 7, 2020 by Stéphanie Leinen (cc-by-sa)"
+          },
+          {
+            "id": 239074,
+            "image_url": "https://bs.plantnet.org/image/o/24e089800ef7df1123e3de06709a7c2a8a4352c6",
+            "copyright": "Taken Oct 22, 2020 by rhackleford (cc-by-sa)"
+          },
+          {
+            "id": 239075,
+            "image_url": "https://bs.plantnet.org/image/o/8fcbcc2e4048f0e84d166218ea6dc893542042d8",
+            "copyright": "Taken Oct 15, 2019 by tbbottle (cc-by-sa)"
+          },
+          {
+            "id": 239076,
+            "image_url": "https://bs.plantnet.org/image/o/572f29fe9fa60258c8c250fa5bdd66133954abf9",
+            "copyright": "Taken Aug 13, 2020 by Lena Myhre (cc-by-sa)"
+          },
+          {
+            "id": 239077,
+            "image_url": "https://bs.plantnet.org/image/o/36f856f04d094e7bc8c901bd7bed13dc6215b431",
+            "copyright": "Taken Sep 19, 2019 by M Amy (cc-by-sa)"
+          }
+        ],
+        "habit": [
+          {
+            "id": 239078,
+            "image_url": "https://bs.plantnet.org/image/o/1fba814269082193f28e8bbbe582a43c52bbbf62",
+            "copyright": "Taken Jan 1, 1900 by EOL − Tony (cc-by)"
+          },
+          {
+            "id": 239079,
+            "image_url": "https://bs.plantnet.org/image/o/2205a8fc6a71cfd320809ea80d5476008cb0549b",
+            "copyright": "Taken Jan 1, 1900 by EOL − dvs on Flickr (cc-by)"
+          },
+          {
+            "id": 239080,
+            "image_url": "https://bs.plantnet.org/image/o/2a3c8f6ee500bacc5f0b9489ab2ab3a95384a508",
+            "copyright": "Taken Jan 1, 1900 by EOL − Encyclopedia of Life (public)"
+          },
+          {
+            "id": 239081,
+            "image_url": "https://bs.plantnet.org/image/o/ba4777c2cb40816ff7037f59f92663bd4822752b",
+            "copyright": "Taken Jun 27, 2019 by Philippe Tanguy (cc-by-sa)"
+          },
+          {
+            "id": 239082,
+            "image_url": "https://bs.plantnet.org/image/o/46adef49b83992d971359f4080559520b1363920",
+            "copyright": "Taken Sep 19, 2019 by M Amy (cc-by-sa)"
+          }
+        ],
+        "other": [
+          {
+            "id": 239083,
+            "image_url": "https://bs.plantnet.org/image/o/5198098400badc4ad5e44144fa83581a397d9313",
+            "copyright": "Taken Jun 21, 2020 by Brent Harris (cc-by-sa)"
+          },
+          {
+            "id": 239084,
+            "image_url": "https://bs.plantnet.org/image/o/ae8336ea4965be16f9be57d6a77e0e8fe97b1a7e",
+            "copyright": "Taken Mar 31, 2019 by Dominique Roux (cc-by-sa)"
+          },
+          {
+            "id": 239085,
+            "image_url": "https://bs.plantnet.org/image/o/c620490b7b12d56b9bc93b9ecc7eb6ab1bb00dc4",
+            "copyright": "Taken May 2, 2019 by Mike Williams (cc-by-sa)"
+          },
+          {
+            "id": 239086,
+            "image_url": "https://bs.plantnet.org/image/o/3867a13b29764078c7a243ae1ea0841d6a7d8c5a",
+            "copyright": "Taken May 31, 2018 by Alexander Vocaet (cc-by-sa)"
+          }
+        ],
+        "": [
+          {
+            "id": 239033,
+            "image_url": "https://d2seqvvyy3b8p2.cloudfront.net/67b953c2d3bc67589fbbd9c90ed5ce46.jpg",
+            "copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+          },
+          {
+            "id": 239034,
+            "image_url": "https://d2seqvvyy3b8p2.cloudfront.net/2d02a973edb37ab31f37e2309a05014c.jpg",
+            "copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+          }
+        ]
+      },
+      "common_names": {
+        "ita": [
+          "abete balsamico",
+          "abete balsamifero"
+        ],
+        "eng": [
+          "balm of gilead fir",
+          "balsam",
+          "balsam fir",
+          "canada balsam",
+          "canadian fir",
+          "eastern fir",
+          "fir balsam"
+        ],
+        "deu": [
+          "balsam-tanne",
+          "balsamtanne"
+        ],
+        "dan": [
+          "balsam-ædelgran"
+        ],
+        "nld": [
+          "balsem zilverspar"
+        ],
+        "lav": [
+          "balzama baltegle"
+        ],
+        "lit": [
+          "balzaminis kėnis"
+        ],
+        "hun": [
+          "balzsamos jegenyefenyo"
+        ],
+        "swe": [
+          "balsamgran"
+        ],
+        "fra": [
+          "baumier",
+          "sapin balsamier",
+          "sapin baumier"
+        ],
+        "slk": [
+          "jedla balzamová"
+        ],
+        "rus": [
+          "пихта бальзамическя (pikhta bal'zamicheskya)"
+        ],
+        "zho": [
+          "香脂冷杉 (xiang zhi leng shan)"
+        ],
+        "en": [
+          "Canada balsam",
+          "Balsam",
+          "Balsam fir",
+          "Fir balsam",
+          "Eastern fir",
+          "Canadian Fir",
+          "Balm of Gilead fir",
+          "American silver Fir"
+        ],
+        "ar": [
+          "شوح بلسمي"
+        ],
+        "hy": [
+          "Եղևին բալասանային"
+        ],
+        "az": [
+          "Ətirli ağ şam"
+        ],
+        "eu": [
+          "Baltsamo-izei"
+        ],
+        "be": [
+          "Піхта бальзамічная"
+        ],
+        "bg": [
+          "Балсамова ела"
+        ],
+        "ca": [
+          "Avet balsàmic",
+          "Avet del bàlsam"
+        ],
+        "zh": [
+          "加拿大香脂冷杉",
+          "香脂冷杉 (xiang zhi leng shan)"
+        ],
+        "cr": [
+          "Napakâsîta"
+        ],
+        "hr": [
+          "Balzamasta jela"
+        ],
+        "cs": [
+          "Jedle balzámová"
+        ],
+        "da": [
+          "Balsam-ædelgran"
+        ],
+        "nl": [
+          "Balsemzilverspar",
+          "Balsem zilverspar"
+        ],
+        "eo": [
+          "Balzama abio"
+        ],
+        "et": [
+          "Palsaminulg"
+        ],
+        "fi": [
+          "Palsamipihta"
+        ],
+        "fr": [
+          "Sapin balsamier",
+          "Sapin baumier",
+          "Baumier"
+        ],
+        "de": [
+          "Balsamtanne",
+          "Balsam-Tanne"
+        ],
+        "el": [
+          "Ελάτη η βαλσαμική"
+        ],
+        "he": [
+          "אשוח ריחני"
+        ],
+        "hu": [
+          "Balzsamfenyő",
+          "Balzsamos jegenyefenyo"
+        ],
+        "is": [
+          "Balsamþinur"
+        ],
+        "it": [
+          "Abete balsamifero",
+          "Abete balsamico"
+        ],
+        "kv": [
+          "Бальзам ньыв"
+        ],
+        "lv": [
+          "Balzama baltegle"
+        ],
+        "lt": [
+          "Balzaminis kėnis"
+        ],
+        "no": [
+          "Balsamgran"
+        ],
+        "oj": [
+          "Aninaandag",
+          "Aninaandagoog",
+          "\"ingiigido'aag (she speaks for us",
+          "She stands in prayer for us\"",
+          "Ininaandag",
+          "Ininaandagoog",
+          "Nimisenh",
+          "Nimisenyag",
+          "Wadab",
+          "Wadabiig"
+        ],
+        "fa": [
+          "نراد بالسام"
+        ],
+        "pl": [
+          "Jodła balsamiczna"
+        ],
+        "ru": [
+          "Пихта бальзамическая",
+          "Пихта бальзамическя (pikhta bal'zamicheskya)"
+        ],
+        "sr": [
+          "Балзамаста јела"
+        ],
+        "sk": [
+          "Jedla balzamová"
+        ],
+        "es": [
+          "Balzamovec"
+        ],
+        "sv": [
+          "Balsamgran"
+        ],
+        "zh-tw": [
+          "膠冷杉"
+        ],
+        "uk": [
+          "Ялиця бальзамічна"
+        ]
+      },
+      "distribution": {
+        "native": [
+          "Alberta",
+          "Connecticut",
+          "Iowa",
+          "Labrador",
+          "Maine",
+          "Manitoba",
+          "Maryland",
+          "Masachusettes",
+          "Michigan",
+          "Minnesota",
+          "New Brunswick",
+          "New Hampshire",
+          "New Jersey",
+          "New York",
+          "Newfoundland",
+          "Nova Scotia",
+          "Ontario",
+          "Pennsylvania",
+          "Prince Edward I.",
+          "Québec",
+          "Saskatchewan",
+          "Vermont",
+          "Virginia",
+          "West Virginia",
+          "Wisconsin"
+        ],
+        "introduced": [
+          "Denmark",
+          "Finland",
+          "Norway"
+        ]
+      },
+      "distributions": {
+        "native": [
+          {
+            "id": 326,
+            "name": "Alberta",
+            "slug": "abt",
+            "tdwg_code": "ABT",
+            "tdwg_level": 3,
+            "species_count": 2505,
+            "links": {
+              "self": "/api/v1/distributions/abt",
+              "plants": "/api/v1/distributions/abt/plants",
+              "species": "/api/v1/distributions/abt/species"
+            }
+          },
+          {
+            "id": 252,
+            "name": "Connecticut",
+            "slug": "cnt",
+            "tdwg_code": "CNT",
+            "tdwg_level": 3,
+            "species_count": 3041,
+            "links": {
+              "self": "/api/v1/distributions/cnt",
+              "plants": "/api/v1/distributions/cnt/plants",
+              "species": "/api/v1/distributions/cnt/species"
+            }
+          },
+          {
+            "id": 231,
+            "name": "Iowa",
+            "slug": "iow",
+            "tdwg_code": "IOW",
+            "tdwg_level": 3,
+            "species_count": 2472,
+            "links": {
+              "self": "/api/v1/distributions/iow",
+              "plants": "/api/v1/distributions/iow/plants",
+              "species": "/api/v1/distributions/iow/species"
+            }
+          },
+          {
+            "id": 299,
+            "name": "Labrador",
+            "slug": "lab",
+            "tdwg_code": "LAB",
+            "tdwg_level": 3,
+            "species_count": 1065,
+            "links": {
+              "self": "/api/v1/distributions/lab",
+              "plants": "/api/v1/distributions/lab/plants",
+              "species": "/api/v1/distributions/lab/species"
+            }
+          },
+          {
+            "id": 253,
+            "name": "Maine",
+            "slug": "mai",
+            "tdwg_code": "MAI",
+            "tdwg_level": 3,
+            "species_count": 2776,
+            "links": {
+              "self": "/api/v1/distributions/mai",
+              "plants": "/api/v1/distributions/mai/plants",
+              "species": "/api/v1/distributions/mai/species"
+            }
+          },
+          {
+            "id": 259,
+            "name": "Manitoba",
+            "slug": "man",
+            "tdwg_code": "MAN",
+            "tdwg_level": 3,
+            "species_count": 2082,
+            "links": {
+              "self": "/api/v1/distributions/man",
+              "plants": "/api/v1/distributions/man/plants",
+              "species": "/api/v1/distributions/man/species"
+            }
+          },
+          {
+            "id": 233,
+            "name": "Maryland",
+            "slug": "mry",
+            "tdwg_code": "MRY",
+            "tdwg_level": 3,
+            "species_count": 3972,
+            "links": {
+              "self": "/api/v1/distributions/mry",
+              "plants": "/api/v1/distributions/mry/plants",
+              "species": "/api/v1/distributions/mry/species"
+            }
+          },
+          {
+            "id": 254,
+            "name": "Masachusettes",
+            "slug": "mas",
+            "tdwg_code": "MAS",
+            "tdwg_level": 3,
+            "species_count": 3445,
+            "links": {
+              "self": "/api/v1/distributions/mas",
+              "plants": "/api/v1/distributions/mas/plants",
+              "species": "/api/v1/distributions/mas/species"
+            }
+          },
+          {
+            "id": 234,
+            "name": "Michigan",
+            "slug": "mic",
+            "tdwg_code": "MIC",
+            "tdwg_level": 3,
+            "species_count": 3351,
+            "links": {
+              "self": "/api/v1/distributions/mic",
+              "plants": "/api/v1/distributions/mic/plants",
+              "species": "/api/v1/distributions/mic/species"
+            }
+          },
+          {
+            "id": 257,
+            "name": "Minnesota",
+            "slug": "min",
+            "tdwg_code": "MIN",
+            "tdwg_level": 3,
+            "species_count": 2934,
+            "links": {
+              "self": "/api/v1/distributions/min",
+              "plants": "/api/v1/distributions/min/plants",
+              "species": "/api/v1/distributions/min/species"
+            }
+          },
+          {
+            "id": 260,
+            "name": "New Brunswick",
+            "slug": "nbr",
+            "tdwg_code": "NBR",
+            "tdwg_level": 3,
+            "species_count": 1946,
+            "links": {
+              "self": "/api/v1/distributions/nbr",
+              "plants": "/api/v1/distributions/nbr/plants",
+              "species": "/api/v1/distributions/nbr/species"
+            }
+          },
+          {
+            "id": 255,
+            "name": "New Hampshire",
+            "slug": "nwh",
+            "tdwg_code": "NWH",
+            "tdwg_level": 3,
+            "species_count": 2504,
+            "links": {
+              "self": "/api/v1/distributions/nwh",
+              "plants": "/api/v1/distributions/nwh/plants",
+              "species": "/api/v1/distributions/nwh/species"
+            }
+          },
+          {
+            "id": 236,
+            "name": "New Jersey",
+            "slug": "nwj",
+            "tdwg_code": "NWJ",
+            "tdwg_level": 3,
+            "species_count": 3336,
+            "links": {
+              "self": "/api/v1/distributions/nwj",
+              "plants": "/api/v1/distributions/nwj/plants",
+              "species": "/api/v1/distributions/nwj/species"
+            }
+          },
+          {
+            "id": 237,
+            "name": "New York",
+            "slug": "nwy",
+            "tdwg_code": "NWY",
+            "tdwg_level": 3,
+            "species_count": 4781,
+            "links": {
+              "self": "/api/v1/distributions/nwy",
+              "plants": "/api/v1/distributions/nwy/plants",
+              "species": "/api/v1/distributions/nwy/species"
+            }
+          },
+          {
+            "id": 300,
+            "name": "Newfoundland",
+            "slug": "nfl",
+            "tdwg_code": "NFL",
+            "tdwg_level": 3,
+            "species_count": 1807,
+            "links": {
+              "self": "/api/v1/distributions/nfl",
+              "plants": "/api/v1/distributions/nfl/plants",
+              "species": "/api/v1/distributions/nfl/species"
+            }
+          },
+          {
+            "id": 261,
+            "name": "Nova Scotia",
+            "slug": "nsc",
+            "tdwg_code": "NSC",
+            "tdwg_level": 3,
+            "species_count": 1965,
+            "links": {
+              "self": "/api/v1/distributions/nsc",
+              "plants": "/api/v1/distributions/nsc/plants",
+              "species": "/api/v1/distributions/nsc/species"
+            }
+          },
+          {
+            "id": 240,
+            "name": "Ontario",
+            "slug": "ont",
+            "tdwg_code": "ONT",
+            "tdwg_level": 3,
+            "species_count": 3714,
+            "links": {
+              "self": "/api/v1/distributions/ont",
+              "plants": "/api/v1/distributions/ont/plants",
+              "species": "/api/v1/distributions/ont/species"
+            }
+          },
+          {
+            "id": 241,
+            "name": "Pennsylvania",
+            "slug": "pen",
+            "tdwg_code": "PEN",
+            "tdwg_level": 3,
+            "species_count": 3840,
+            "links": {
+              "self": "/api/v1/distributions/pen",
+              "plants": "/api/v1/distributions/pen/plants",
+              "species": "/api/v1/distributions/pen/species"
+            }
+          },
+          {
+            "id": 301,
+            "name": "Prince Edward I.",
+            "slug": "pei",
+            "tdwg_code": "PEI",
+            "tdwg_level": 3,
+            "species_count": 1224,
+            "links": {
+              "self": "/api/v1/distributions/pei",
+              "plants": "/api/v1/distributions/pei/plants",
+              "species": "/api/v1/distributions/pei/species"
+            }
+          },
+          {
+            "id": 242,
+            "name": "Québec",
+            "slug": "que",
+            "tdwg_code": "QUE",
+            "tdwg_level": 3,
+            "species_count": 3181,
+            "links": {
+              "self": "/api/v1/distributions/que",
+              "plants": "/api/v1/distributions/que/plants",
+              "species": "/api/v1/distributions/que/species"
+            }
+          },
+          {
+            "id": 330,
+            "name": "Saskatchewan",
+            "slug": "sas",
+            "tdwg_code": "SAS",
+            "tdwg_level": 3,
+            "species_count": 2010,
+            "links": {
+              "self": "/api/v1/distributions/sas",
+              "plants": "/api/v1/distributions/sas/plants",
+              "species": "/api/v1/distributions/sas/species"
+            }
+          },
+          {
+            "id": 243,
+            "name": "Vermont",
+            "slug": "ver",
+            "tdwg_code": "VER",
+            "tdwg_level": 3,
+            "species_count": 2952,
+            "links": {
+              "self": "/api/v1/distributions/ver",
+              "plants": "/api/v1/distributions/ver/plants",
+              "species": "/api/v1/distributions/ver/species"
+            }
+          },
+          {
+            "id": 224,
+            "name": "Virginia",
+            "slug": "vrg",
+            "tdwg_code": "VRG",
+            "tdwg_level": 3,
+            "species_count": 4010,
+            "links": {
+              "self": "/api/v1/distributions/vrg",
+              "plants": "/api/v1/distributions/vrg/plants",
+              "species": "/api/v1/distributions/vrg/species"
+            }
+          },
+          {
+            "id": 244,
+            "name": "West Virginia",
+            "slug": "wva",
+            "tdwg_code": "WVA",
+            "tdwg_level": 3,
+            "species_count": 2819,
+            "links": {
+              "self": "/api/v1/distributions/wva",
+              "plants": "/api/v1/distributions/wva/plants",
+              "species": "/api/v1/distributions/wva/species"
+            }
+          },
+          {
+            "id": 258,
+            "name": "Wisconsin",
+            "slug": "wis",
+            "tdwg_code": "WIS",
+            "tdwg_level": 3,
+            "species_count": 3233,
+            "links": {
+              "self": "/api/v1/distributions/wis",
+              "plants": "/api/v1/distributions/wis/plants",
+              "species": "/api/v1/distributions/wis/species"
+            }
+          }
+        ],
+        "introduced": [
+          {
+            "id": 280,
+            "name": "Denmark",
+            "slug": "den",
+            "tdwg_code": "DEN",
+            "tdwg_level": 3,
+            "species_count": 2996,
+            "links": {
+              "self": "/api/v1/distributions/den",
+              "plants": "/api/v1/distributions/den/plants",
+              "species": "/api/v1/distributions/den/species"
+            }
+          },
+          {
+            "id": 282,
+            "name": "Finland",
+            "slug": "fin",
+            "tdwg_code": "FIN",
+            "tdwg_level": 3,
+            "species_count": 3400,
+            "links": {
+              "self": "/api/v1/distributions/fin",
+              "plants": "/api/v1/distributions/fin/plants",
+              "species": "/api/v1/distributions/fin/species"
+            }
+          },
+          {
+            "id": 291,
+            "name": "Norway",
+            "slug": "nor",
+            "tdwg_code": "NOR",
+            "tdwg_level": 3,
+            "species_count": 3444,
+            "links": {
+              "self": "/api/v1/distributions/nor",
+              "plants": "/api/v1/distributions/nor/plants",
+              "species": "/api/v1/distributions/nor/species"
+            }
+          }
+        ]
+      },
+      "flower": {
+        "color": [
+          "yellow"
+        ],
+        "conspicuous": false
+      },
+      "foliage": {
+        "texture": "medium",
+        "color": [
+          "green"
+        ],
+        "leaf_retention": null
+      },
+      "fruit_or_seed": {
+        "conspicuous": false,
+        "color": [
+          "brown"
+        ],
+        "shape": null,
+        "seed_persistence": null
+      },
+      "sources": [
+        {
+          "last_update": "2022-12-05T06:00:38.586Z",
+          "id": "wfo-0000511004",
+          "name": "WFO",
+          "url": null,
+          "citation": null
+        },
+        {
+          "last_update": "2022-12-05T06:00:38.634Z",
+          "id": "1084057-2",
+          "name": "IPNI",
+          "url": null,
+          "citation": null
+        },
+        {
+          "last_update": "2022-12-08T03:38:50.152Z",
+          "id": "2685383",
+          "name": "GBIF",
+          "url": "https://www.gbif.org/species/2685383",
+          "citation": null
+        },
+        {
+          "last_update": "2022-12-08T03:38:50.497Z",
+          "id": "urn:lsid:ipni.org:names:1084057-2",
+          "name": "POWO",
+          "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1084057-2",
+          "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+        },
+        {
+          "last_update": "2022-12-08T03:38:53.489Z",
+          "id": "Abies balsamea (L.) Mill.",
+          "name": "PlantNet",
+          "url": "https://identify.plantnet.org/species/the-plant-list/Abies balsamea (L.) Mill.",
+          "citation": null
+        }
+      ],
+      "specifications": {
+        "ligneous_type": null,
+        "growth_form": "Single Stem",
+        "growth_habit": "Tree",
+        "growth_rate": "Slow",
+        "average_height": {
+          "cm": null
+        },
+        "maximum_height": {
+          "cm": null
+        },
+        "nitrogen_fixation": null,
+        "shape_and_orientation": null,
+        "toxicity": null
+      },
+      "synonyms": [
+        {
+          "id": 326564,
+          "name": "Pinus taxifolia",
+          "author": "Salisb.",
+          "sources": [
+            {
+              "last_update": "2022-12-08T01:30:34.531Z",
+              "id": "urn:lsid:ipni.org:names:77244400-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77244400-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+            },
+            {
+              "last_update": "2022-12-08T03:38:50.553Z",
+              "id": "urn:lsid:ipni.org:names:263365-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:263365-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+            }
+          ]
+        },
+        {
+          "id": 352755,
+          "name": "Picea balsamea",
+          "author": "(L.) Loudon",
+          "sources": [
+            {
+              "last_update": "2022-12-08T03:38:50.595Z",
+              "id": "urn:lsid:ipni.org:names:262623-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262623-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+            }
+          ]
+        },
+        {
+          "id": 352756,
+          "name": "Pinus balsamea",
+          "author": "L.",
+          "sources": [
+            {
+              "last_update": "2022-12-08T03:38:50.634Z",
+              "id": "urn:lsid:ipni.org:names:325659-2",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325659-2",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+            }
+          ]
+        },
+        {
+          "id": 352757,
+          "name": "Peuce balsamea",
+          "author": "(L.) Rich.",
+          "sources": [
+            {
+              "last_update": "2022-12-08T03:38:50.658Z",
+              "id": "urn:lsid:ipni.org:names:262589-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262589-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+            }
+          ]
+        }
+      ],
+      "growth": {
+        "description": null,
+        "sowing": null,
+        "days_to_harvest": null,
+        "row_spacing": {
+          "cm": null
+        },
+        "spread": {
+          "cm": null
+        },
+        "ph_maximum": 6.0,
+        "ph_minimum": 4.0,
+        "light": 7,
+        "atmospheric_humidity": 5,
+        "growth_months": null,
+        "bloom_months": null,
+        "fruit_months": null,
+        "minimum_precipitation": {
+          "mm": null
+        },
+        "maximum_precipitation": {
+          "mm": null
+        },
+        "minimum_root_depth": {
+          "cm": null
+        },
+        "minimum_temperature": {
+          "deg_f": null,
+          "deg_c": null
+        },
+        "maximum_temperature": {
+          "deg_f": null,
+          "deg_c": null
+        },
+        "soil_nutriments": 5,
+        "soil_salinity": 0,
+        "soil_texture": null,
+        "soil_humidity": null
+      },
+      "links": {
+        "self": "/api/v1/species/abies-balsamea",
+        "plant": "/api/v1/plants/abies-balsamea",
+        "genus": "/api/v1/genus/abies"
+      }
+    },
+    "genus": {
+      "id": 7230,
+      "name": "Abies",
+      "slug": "abies",
+      "links": {
+        "self": "/api/v1/genus/abies",
+        "plants": "/api/v1/genus/abies/plants",
+        "species": "/api/v1/genus/abies/species",
+        "family": "/api/v1/families/pinaceae"
+      }
+    },
+    "family": {
+      "id": 3,
+      "name": "Pinaceae",
+      "common_name": "Pine family",
+      "slug": "pinaceae",
+      "links": {
+        "self": "/api/v1/families/pinaceae",
+        "division_order": "/api/v1/division_orders/pinales",
+        "genus": "/api/v1/families/pinaceae/genus"
+      }
+    },
+    "species": [
+      {
+        "id": 136848,
+        "common_name": "Canada balsam",
+        "slug": "abies-balsamea",
+        "scientific_name": "Abies balsamea",
+        "year": 1768,
+        "bibliography": "Gard. Dict. ed. 8: n.º 3 (1768)",
+        "author": "(L.) Mill.",
+        "status": "accepted",
+        "rank": "species",
+        "family_common_name": "Pine family",
+        "genus_id": 7230,
+        "image_url": "https://bs.plantnet.org/image/o/46adef49b83992d971359f4080559520b1363920",
+        "synonyms": [
+          "Pinus taxifolia",
+          "Picea balsamea",
+          "Pinus balsamea",
+          "Peuce balsamea"
+        ],
+        "genus": "Abies",
+        "family": "Pinaceae",
+        "links": {
+          "self": "/api/v1/species/abies-balsamea",
+          "plant": "/api/v1/plants/abies-balsamea",
+          "genus": "/api/v1/genus/abies"
+        }
+      }
+    ],
+    "subspecies": [],
+    "varieties": [
+      {
+        "id": 411811,
+        "common_name": null,
+        "slug": "abies-balsamea-var-phanerolepis",
+        "scientific_name": "Abies balsamea var. phanerolepis",
+        "year": 1909,
+        "bibliography": "Rhodora 11: 201 (1909)",
+        "author": "Fernald",
+        "status": "accepted",
+        "rank": "var",
+        "family_common_name": "Pine family",
+        "genus_id": 7230,
+        "image_url": null,
+        "synonyms": [
+          "Abies phanerolepis",
+          "Abies balsamea f. phanerolepis",
+          "Abies balsamea subsp. phanerolepis",
+          "Abies intermedia"
+        ],
+        "genus": "Abies",
+        "family": "Pinaceae",
+        "links": {
+          "self": "/api/v1/species/abies-balsamea-var-phanerolepis",
+          "plant": "/api/v1/plants/abies-balsamea",
+          "genus": "/api/v1/genus/abies"
+        }
+      },
+      {
+        "id": 411810,
+        "common_name": null,
+        "slug": "abies-balsamea-var-balsamea",
+        "scientific_name": "Abies balsamea var. balsamea",
+        "year": null,
+        "bibliography": null,
+        "author": null,
+        "status": "accepted",
+        "rank": "var",
+        "family_common_name": "Pine family",
+        "genus_id": 7230,
+        "image_url": null,
+        "synonyms": [
+          "Picea aromatica",
+          "Abies minor",
+          "Abies balsamea var. macrocarpa",
+          "Abies fraseri var. hudsonia",
+          "Abies fraseri var. nana",
+          "Picea fraseri var. hudsonia",
+          "Abies hudsonia",
+          "Abies balsamifera",
+          "Pinus balsamea var. longifolia",
+          "Abies balsamea var. brachylepis",
+          "Abies balsamea f. nana",
+          "Abies balsamea var. nana",
+          "Abies balsamea var. longifolia",
+          "Abies balsamea f. hudsonia",
+          "Picea balsamea var. nana",
+          "Picea balsamea var. longifolia"
+        ],
+        "genus": "Abies",
+        "family": "Pinaceae",
+        "links": {
+          "self": "/api/v1/species/abies-balsamea-var-balsamea",
+          "plant": "/api/v1/plants/abies-balsamea",
+          "genus": "/api/v1/genus/abies"
+        }
+      }
+    ],
+    "hybrids": [],
+    "forms": [],
+    "subvarieties": [],
+    "sources": [
+      {
+        "last_update": "2022-12-05T06:00:38.586Z",
+        "id": "wfo-0000511004",
+        "name": "WFO",
+        "url": null,
+        "citation": null
+      },
+      {
+        "last_update": "2022-12-05T06:00:38.634Z",
+        "id": "1084057-2",
+        "name": "IPNI",
+        "url": null,
+        "citation": null
+      },
+      {
+        "last_update": "2022-12-08T03:38:50.152Z",
+        "id": "2685383",
+        "name": "GBIF",
+        "url": "https://www.gbif.org/species/2685383",
+        "citation": null
+      },
+      {
+        "last_update": "2022-12-08T03:38:50.497Z",
+        "id": "urn:lsid:ipni.org:names:1084057-2",
+        "name": "POWO",
+        "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1084057-2",
+        "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+      },
+      {
+        "last_update": "2022-12-08T03:38:53.489Z",
+        "id": "Abies balsamea (L.) Mill.",
+        "name": "PlantNet",
+        "url": "https://identify.plantnet.org/species/the-plant-list/Abies balsamea (L.) Mill.",
+        "citation": null
+      },
+      {
+        "last_update": "2022-12-08T03:38:51.937Z",
+        "id": "urn:lsid:ipni.org:names:50917432-1",
+        "name": "POWO",
+        "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50917432-1",
+        "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+      },
+      {
+        "last_update": "2022-12-08T03:38:50.908Z",
+        "id": "urn:lsid:ipni.org:names:77169257-1",
+        "name": "POWO",
+        "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77169257-1",
+        "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-08"
+      }
+    ]
+  },
+  "meta": {
+    "last_modified": "2022-12-17T16:20:39.719Z"
+  }
+}

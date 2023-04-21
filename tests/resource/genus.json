@@ -1,0 +1,433 @@
+{
+  "data": [
+    {
+      "id": 2552,
+      "name": "Aa",
+      "slug": "aa",
+      "links": {
+        "self": "/api/v1/genus/aa",
+        "plants": "/api/v1/genus/aa/plants",
+        "species": "/api/v1/genus/aa/species",
+        "family": "/api/v1/families/orchidaceae"
+      },
+      "family": {
+        "id": 50,
+        "name": "Orchidaceae",
+        "common_name": null,
+        "slug": "orchidaceae",
+        "links": {
+          "self": "/api/v1/families/orchidaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/orchidaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 15299,
+      "name": "Aakia",
+      "slug": "aakia",
+      "links": {
+        "self": "/api/v1/genus/aakia",
+        "plants": "/api/v1/genus/aakia/plants",
+        "species": "/api/v1/genus/aakia/species",
+        "family": "/api/v1/families/poaceae"
+      },
+      "family": {
+        "id": 7,
+        "name": "Poaceae",
+        "common_name": null,
+        "slug": "poaceae",
+        "links": {
+          "self": "/api/v1/families/poaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/poaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 600,
+      "name": "Aaronsohnia",
+      "slug": "aaronsohnia",
+      "links": {
+        "self": "/api/v1/genus/aaronsohnia",
+        "plants": "/api/v1/genus/aaronsohnia/plants",
+        "species": "/api/v1/genus/aaronsohnia/species",
+        "family": "/api/v1/families/asteraceae"
+      },
+      "family": {
+        "id": 13,
+        "name": "Asteraceae",
+        "common_name": "Aster family",
+        "slug": "asteraceae",
+        "links": {
+          "self": "/api/v1/families/asteraceae",
+          "division_order": "/api/v1/division_orders/asterales",
+          "genus": "/api/v1/families/asteraceae/genus"
+        }
+      }
+    },
+    {
+      "id": 15699,
+      "name": "Abacopteris",
+      "slug": "abacopteris",
+      "links": {
+        "self": "/api/v1/genus/abacopteris",
+        "plants": "/api/v1/genus/abacopteris/plants",
+        "species": "/api/v1/genus/abacopteris/species",
+        "family": null
+      },
+      "family": null
+    },
+    {
+      "id": 2124,
+      "name": "Abarema",
+      "slug": "abarema",
+      "links": {
+        "self": "/api/v1/genus/abarema",
+        "plants": "/api/v1/genus/abarema/plants",
+        "species": "/api/v1/genus/abarema/species",
+        "family": "/api/v1/families/fabaceae"
+      },
+      "family": {
+        "id": 49,
+        "name": "Fabaceae",
+        "common_name": null,
+        "slug": "fabaceae",
+        "links": {
+          "self": "/api/v1/families/fabaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/fabaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 11586,
+      "name": "Abatia",
+      "slug": "abatia",
+      "links": {
+        "self": "/api/v1/genus/abatia",
+        "plants": "/api/v1/genus/abatia/plants",
+        "species": "/api/v1/genus/abatia/species",
+        "family": "/api/v1/families/salicaceae"
+      },
+      "family": {
+        "id": 434,
+        "name": "Salicaceae",
+        "common_name": null,
+        "slug": "salicaceae",
+        "links": {
+          "self": "/api/v1/families/salicaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/salicaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 7228,
+      "name": "Abdra",
+      "slug": "abdra",
+      "links": {
+        "self": "/api/v1/genus/abdra",
+        "plants": "/api/v1/genus/abdra/plants",
+        "species": "/api/v1/genus/abdra/species",
+        "family": "/api/v1/families/brassicaceae"
+      },
+      "family": {
+        "id": 8,
+        "name": "Brassicaceae",
+        "common_name": null,
+        "slug": "brassicaceae",
+        "links": {
+          "self": "/api/v1/families/brassicaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/brassicaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 15891,
+      "name": "Abelia",
+      "slug": "abelia",
+      "links": {
+        "self": "/api/v1/genus/abelia",
+        "plants": "/api/v1/genus/abelia/plants",
+        "species": "/api/v1/genus/abelia/species",
+        "family": "/api/v1/families/caprifoliaceae"
+      },
+      "family": {
+        "id": 126,
+        "name": "Caprifoliaceae",
+        "common_name": null,
+        "slug": "caprifoliaceae",
+        "links": {
+          "self": "/api/v1/families/caprifoliaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/caprifoliaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 10537,
+      "name": "Abeliophyllum",
+      "slug": "abeliophyllum",
+      "links": {
+        "self": "/api/v1/genus/abeliophyllum",
+        "plants": "/api/v1/genus/abeliophyllum/plants",
+        "species": "/api/v1/genus/abeliophyllum/species",
+        "family": "/api/v1/families/oleaceae"
+      },
+      "family": {
+        "id": 264,
+        "name": "Oleaceae",
+        "common_name": "Olive family",
+        "slug": "oleaceae",
+        "links": {
+          "self": "/api/v1/families/oleaceae",
+          "division_order": "/api/v1/division_orders/scrophulariales",
+          "genus": "/api/v1/families/oleaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 7229,
+      "name": "Abelmoschus",
+      "slug": "abelmoschus",
+      "links": {
+        "self": "/api/v1/genus/abelmoschus",
+        "plants": "/api/v1/genus/abelmoschus/plants",
+        "species": "/api/v1/genus/abelmoschus/species",
+        "family": "/api/v1/families/malvaceae"
+      },
+      "family": {
+        "id": 115,
+        "name": "Malvaceae",
+        "common_name": null,
+        "slug": "malvaceae",
+        "links": {
+          "self": "/api/v1/families/malvaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/malvaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 7230,
+      "name": "Abies",
+      "slug": "abies",
+      "links": {
+        "self": "/api/v1/genus/abies",
+        "plants": "/api/v1/genus/abies/plants",
+        "species": "/api/v1/genus/abies/species",
+        "family": "/api/v1/families/pinaceae"
+      },
+      "family": {
+        "id": 3,
+        "name": "Pinaceae",
+        "common_name": "Pine family",
+        "slug": "pinaceae",
+        "links": {
+          "self": "/api/v1/families/pinaceae",
+          "division_order": "/api/v1/division_orders/pinales",
+          "genus": "/api/v1/families/pinaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 13431,
+      "name": "Abietinella",
+      "slug": "abietinella",
+      "links": {
+        "self": "/api/v1/genus/abietinella",
+        "plants": "/api/v1/genus/abietinella/plants",
+        "species": "/api/v1/genus/abietinella/species",
+        "family": "/api/v1/families/thuidiaceae"
+      },
+      "family": {
+        "id": 501,
+        "name": "Thuidiaceae",
+        "common_name": null,
+        "slug": "thuidiaceae",
+        "links": {
+          "self": "/api/v1/families/thuidiaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/thuidiaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 15885,
+      "name": "Abildgaardia",
+      "slug": "abildgaardia",
+      "links": {
+        "self": "/api/v1/genus/abildgaardia",
+        "plants": "/api/v1/genus/abildgaardia/plants",
+        "species": "/api/v1/genus/abildgaardia/species",
+        "family": "/api/v1/families/cyperaceae"
+      },
+      "family": {
+        "id": 5,
+        "name": "Cyperaceae",
+        "common_name": "Sedge family",
+        "slug": "cyperaceae",
+        "links": {
+          "self": "/api/v1/families/cyperaceae",
+          "division_order": "/api/v1/division_orders/cyperales",
+          "genus": "/api/v1/families/cyperaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 7231,
+      "name": "Abobra",
+      "slug": "abobra",
+      "links": {
+        "self": "/api/v1/genus/abobra",
+        "plants": "/api/v1/genus/abobra/plants",
+        "species": "/api/v1/genus/abobra/species",
+        "family": "/api/v1/families/cucurbitaceae"
+      },
+      "family": {
+        "id": 144,
+        "name": "Cucurbitaceae",
+        "common_name": null,
+        "slug": "cucurbitaceae",
+        "links": {
+          "self": "/api/v1/families/cucurbitaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/cucurbitaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 4199,
+      "name": "Abolboda",
+      "slug": "abolboda",
+      "links": {
+        "self": "/api/v1/genus/abolboda",
+        "plants": "/api/v1/genus/abolboda/plants",
+        "species": "/api/v1/genus/abolboda/species",
+        "family": "/api/v1/families/xyridaceae"
+      },
+      "family": {
+        "id": 97,
+        "name": "Xyridaceae",
+        "common_name": null,
+        "slug": "xyridaceae",
+        "links": {
+          "self": "/api/v1/families/xyridaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/xyridaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 14778,
+      "name": "Abrahamia",
+      "slug": "abrahamia",
+      "links": {
+        "self": "/api/v1/genus/abrahamia",
+        "plants": "/api/v1/genus/abrahamia/plants",
+        "species": "/api/v1/genus/abrahamia/species",
+        "family": "/api/v1/families/anacardiaceae"
+      },
+      "family": {
+        "id": 134,
+        "name": "Anacardiaceae",
+        "common_name": null,
+        "slug": "anacardiaceae",
+        "links": {
+          "self": "/api/v1/families/anacardiaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/anacardiaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 15671,
+      "name": "Abrodictyum",
+      "slug": "abrodictyum",
+      "links": {
+        "self": "/api/v1/genus/abrodictyum",
+        "plants": "/api/v1/genus/abrodictyum/plants",
+        "species": "/api/v1/genus/abrodictyum/species",
+        "family": null
+      },
+      "family": null
+    },
+    {
+      "id": 7232,
+      "name": "Abroma",
+      "slug": "abroma",
+      "links": {
+        "self": "/api/v1/genus/abroma",
+        "plants": "/api/v1/genus/abroma/plants",
+        "species": "/api/v1/genus/abroma/species",
+        "family": "/api/v1/families/malvaceae"
+      },
+      "family": {
+        "id": 115,
+        "name": "Malvaceae",
+        "common_name": null,
+        "slug": "malvaceae",
+        "links": {
+          "self": "/api/v1/families/malvaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/malvaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 7233,
+      "name": "Abronia",
+      "slug": "abronia",
+      "links": {
+        "self": "/api/v1/genus/abronia",
+        "plants": "/api/v1/genus/abronia/plants",
+        "species": "/api/v1/genus/abronia/species",
+        "family": "/api/v1/families/nyctaginaceae"
+      },
+      "family": {
+        "id": 192,
+        "name": "Nyctaginaceae",
+        "common_name": null,
+        "slug": "nyctaginaceae",
+        "links": {
+          "self": "/api/v1/families/nyctaginaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/nyctaginaceae/genus"
+        }
+      }
+    },
+    {
+      "id": 7235,
+      "name": "Abrophyllum",
+      "slug": "abrophyllum",
+      "links": {
+        "self": "/api/v1/genus/abrophyllum",
+        "plants": "/api/v1/genus/abrophyllum/plants",
+        "species": "/api/v1/genus/abrophyllum/species",
+        "family": "/api/v1/families/rousseaceae"
+      },
+      "family": {
+        "id": 296,
+        "name": "Rousseaceae",
+        "common_name": null,
+        "slug": "rousseaceae",
+        "links": {
+          "self": "/api/v1/families/rousseaceae",
+          "division_order": null,
+          "genus": "/api/v1/families/rousseaceae/genus"
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": "/api/v1/genus",
+    "first": "/api/v1/genus?page=1",
+    "next": "/api/v1/genus?page=2",
+    "last": "/api/v1/genus?page=826"
+  },
+  "meta": {
+    "total": 16508
+  }
+}
