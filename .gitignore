@@ -2,3 +2,4 @@
 vendor/
 trefle.iml
 /.phpunit.cache/
+composer.lock
