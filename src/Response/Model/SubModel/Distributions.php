@@ -7,11 +7,11 @@ namespace Trefle\Response\Model\SubModel;
 class Distributions
 {
     /**
-     * @param list<Distribution> $native
-     * @param list<Distribution> $introduced
-     * @param list<Distribution> $doubtful
-     * @param list<Distribution> $absent
-     * @param list<Distribution> $extinct
+     * @param array<Distribution> $native
+     * @param array<Distribution> $introduced
+     * @param array<Distribution> $doubtful
+     * @param array<Distribution> $absent
+     * @param array<Distribution> $extinct
      *
      */
     public function __construct(

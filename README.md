@@ -2,19 +2,42 @@
 
 This is a client for trefle.io.
 
+## Installation
+
+```bash
+composer require vkollin/trefle-php-client
+```
+
+## Usage
+
+```php
+$trefleClient = TrefleClient::create('your-token');
+
+// get a specific species
+$sunflowerSpecies = $trefleClient->getSpecies('helianthus-annuus')->getSpecies();
+
+// get a specific plant
+$sunflowerPlant = $trefleClient->getPlant('helianthus-annuus')->getPlant();
+
+// search for species matching a query
+$searchRequest = (new SearchRequest())->setQuery('oak')->setLimit(5);
+
+$searchResults = $trefleClient->searchSpecies($searchRequest)->getSpecies();
+```
+
 ## Implemented endpoints
 
 ### Species
 
 - [ ] [List species](https://docs.trefle.io/reference#tag/Species/operation/listSpecies)
-- [ ] [Retrieve a species](https://docs.trefle.io/reference#tag/Species/operation/getSpecies)
-- [ ] [Search for species](https://docs.trefle.io/reference#tag/Species/operation/searchSpecies)
+- [x] [Retrieve a species](https://docs.trefle.io/reference#tag/Species/operation/getSpecies)
+- [ ] [Search for species](https://docs.trefle.io/reference#tag/Species/operation/searchSpecies) _(only query parameters and limit is implemented at the moment, but no filters)_
 - [ ] [Report an error](https://docs.trefle.io/reference#tag/Species/operation/reportSpecies)
 
 ### Plants
 
 - [ ] [List plants](https://docs.trefle.io/reference#tag/Plants/operation/listPlants)
-- [ ] [Retrieve a plant](https://docs.trefle.io/reference#tag/Plants/operation/getPlant)
+- [x] [Retrieve a plant](https://docs.trefle.io/reference#tag/Plants/operation/getPlant)
 - [ ] [Search for a plant](https://docs.trefle.io/reference#tag/Plants/operation/searchPlants)
 - [ ] [Report an error](https://docs.trefle.io/reference#tag/Plants/operation/reportPlants)
 - [ ] [List plants in a distribution zone](https://docs.trefle.io/reference#tag/Plants/operation/listPlantsZone)

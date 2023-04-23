@@ -20,7 +20,7 @@
     "phpcs-fix": "./vendor/bin/phpcbf --standard=./phpcs.xml ./",
     "psalm": "./vendor/bin/psalm --threads=4 --no-diff --use-baseline=.psalm-baseline.xml",
     "psalm-fix": "./vendor/bin/psalter --alter --issues=InvalidNullableReturnType,InvalidReturnType,MissingClosureReturnType,UnusedVariable,MissingParamType",
-    "helper": "./bin/helper"
+    "psalm-baseline": "./vendor/bin/psalm --set-baseline=.psalm-baseline.xml"
   },
   "autoload": {
     "psr-4": {

@@ -63,7 +63,7 @@ abstract class AbstractList implements IteratorAggregate, Countable, ArrayAccess
     }
 
     /**
-     * @param int $offset
+     * @param int|null $offset
      * @param T $value
      */
     public function offsetSet($offset, $value): void

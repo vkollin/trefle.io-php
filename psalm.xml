@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <psalm
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        errorLevel="1"
+        errorLevel="2"
         resolveFromConfigFile="true"
         xmlns="https://getpsalm.org/schema/config"
         xsi:schemaLocation="https://getpsalm.org/schema/config vendor/vimeo/psalm/config.xsd"
-        phpVersion="8.2"
+        phpVersion="8.1"
         errorBaseline=".psalm-baseline.xml"
         findUnusedBaselineEntry="true"
         findUnusedPsalmSuppress="true"
@@ -17,4 +17,16 @@
             <directory name="vendor"/>
         </ignoreFiles>
     </projectFiles>
+
+    <issueHandlers>
+        <UnusedClass errorLevel="suppress"/>
+
+        <PossiblyUnusedMethod errorLevel="suppress"/>
+
+        <UndefinedAttributeClass>
+            <errorLevel type="suppress">
+                <file name="src/TrefleClient.php"/>
+            </errorLevel>
+        </UndefinedAttributeClass>
+    </issueHandlers>
 </psalm>

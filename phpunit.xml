@@ -20,8 +20,8 @@
     </php>
 
     <testsuites>
-        <testsuite name="Service Tests">
-            <directory>./tests/Service</directory>
+        <testsuite name="Request Tests">
+            <directory>tests/Request</directory>
         </testsuite>
     </testsuites>
 

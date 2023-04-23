@@ -13,8 +13,8 @@ class Plant
      * @param string $slug
      * @param string $scientificName
      * @param int|null $genusId
-     * @param Genus|null $genus
-     * @param Family|null $family
+     * @param string|null $genus
+     * @param string|null $family
      * @param array{ self?: string, genus?: string, species?: string }|null $links
      * @param string|null $commonName
      * @param int|null $year
@@ -26,21 +26,21 @@ class Plant
      * @param string|null $observations
      * @param int|null $mainSpeciesId
      * @param Species|null $mainSpecies
-     * @param list<SpeciesLight>|null $species
-     * @param list<SpeciesLight>|null $subSpecies
-     * @param list<SpeciesLight>|null $varieties
-     * @param list<SpeciesLight>|null $hybrids
-     * @param list<SpeciesLight>|null $forms
-     * @param list<SpeciesLight>|null $subVarieties
-     * @param list<Source>|null $sources
+     * @param array<SpeciesLight>|null $species
+     * @param array<SpeciesLight>|null $subSpecies
+     * @param array<SpeciesLight>|null $varieties
+     * @param array<SpeciesLight>|null $hybrids
+     * @param array<SpeciesLight>|null $forms
+     * @param array<SpeciesLight>|null $subVarieties
+     * @param array<Source>|null $sources
      */
     public function __construct(
         private readonly int          $id,
         private readonly string       $slug,
         private readonly string       $scientificName,
         private readonly int|null     $genusId,
-        private readonly Genus|null   $genus,
-        private readonly Family|null  $family,
+        private readonly string|null  $genus,
+        private readonly string|null  $family,
         private readonly array|null   $links,
         private readonly string|null  $commonName,
         private readonly int|null     $year,
@@ -82,12 +82,12 @@ class Plant
         return $this->genusId;
     }
 
-    public function getGenus(): ?Genus
+    public function getGenus(): ?string
     {
         return $this->genus;
     }
 
-    public function getFamily(): ?Family
+    public function getFamily(): ?string
     {
         return $this->family;
     }
@@ -151,7 +151,7 @@ class Plant
     }
 
     /**
-     * @return list<SpeciesLight>|null
+     * @return array<SpeciesLight>|null
      */
     public function getSpecies(): ?array
     {
@@ -159,7 +159,7 @@ class Plant
     }
 
     /**
-     * @return list<SpeciesLight>|null
+     * @return array<SpeciesLight>|null
      */
     public function getSubSpecies(): ?array
     {
@@ -167,7 +167,7 @@ class Plant
     }
 
     /**
-     * @return list<SpeciesLight>|null
+     * @return array<SpeciesLight>|null
      */
     public function getVarieties(): ?array
     {
@@ -175,7 +175,7 @@ class Plant
     }
 
     /**
-     * @return list<SpeciesLight>|null
+     * @return array<SpeciesLight>|null
      */
     public function getHybrids(): ?array
     {
@@ -183,7 +183,7 @@ class Plant
     }
 
     /**
-     * @return list<SpeciesLight>|null
+     * @return array<SpeciesLight>|null
      */
     public function getForms(): ?array
     {
@@ -191,7 +191,7 @@ class Plant
     }
 
     /**
-     * @return list<SpeciesLight>|null
+     * @return array<SpeciesLight>|null
      */
     public function getSubVarieties(): ?array
     {
@@ -199,7 +199,7 @@ class Plant
     }
 
     /**
-     * @return list<Source>|null
+     * @return array<Source>|null
      */
     public function getSources(): ?array
     {

@@ -4,6 +4,7 @@ declare(strict_types = 1);
 
 namespace Trefle;
 
+use Trefle\Exception\TrefleRequestException;
 use Trefle\Factory\ResponseFactory;
 use Trefle\Http\Client;
 use Trefle\Request\Request;
@@ -22,11 +23,14 @@ class TrefleClient
     ) {
     }
 
-    public static function create(?string $token): static
+    public static function create(?string $token): self
     {
-        return new static(new Client(), ResponseFactory::create(), $token);
+        return new TrefleClient(new Client(), ResponseFactory::create(), $token);
     }
 
+    /**
+     * @throws TrefleRequestException
+     */
     private function fetch(Request $request): array
     {
         $request->addParameter('token', $this->token);
@@ -34,6 +38,9 @@ class TrefleClient
         return $this->client->fetch($request);
     }
 
+    /**
+     * @throws TrefleRequestException
+     */
     public function searchSpecies(SearchRequest $request): SearchSpeciesResponse
     {
         $request->setPath('/species/search');
@@ -43,6 +50,9 @@ class TrefleClient
         return $this->responseFactory->createSearchSpeciesResponse($response);
     }
 
+    /**
+     * @throws TrefleRequestException
+     */
     public function getSpecies(string|int $slugOrId): SpeciesResponse
     {
         $request = new SingleRequest();
@@ -53,6 +63,9 @@ class TrefleClient
         return $this->responseFactory->createSpeciesResponse($response);
     }
 
+    /**
+     * @throws TrefleRequestException
+     */
     public function getPlant(string|int $slugOrId): PlantResponse
     {
         $request = new SingleRequest();

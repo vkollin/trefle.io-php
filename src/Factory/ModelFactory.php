@@ -93,8 +93,8 @@ class ModelFactory
             $data['slug'],
             $data['scientific_name'],
             $data['genus_id'] ?? null,
-            isset($data['genus']) ? $this->createGenus($data['genus']) : null,
-            isset($data['family']) ? $this->createFamily($data['family']) : null,
+            $data['genus'],
+            $data['family'],
             $data['links'] ?? null,
             $data['common_name'] ?? null,
             $data['year'] ?? null,
@@ -102,8 +102,8 @@ class ModelFactory
             $data['author'] ?? null,
             $data['family_common_name'] ?? null,
             $data['image_url'] ?? null,
-            isset($data['status']) ? StatusEnumeration::from($data['status']) : null,
-            isset($data['rank']) ? RankEnumeration::from($data['rank']) : null,
+            $data['vegetable'] ?? null,
+            $data['observations'] ?? null,
             $data['main_species_id'] ?? null,
             isset($data['main_species']) ? $this->createSpecies($data['main_species']) : null,
             isset($data['species']) ? array_map(fn(array $d) => $this->createSpeciesLight($d), $data['species']) : null,
@@ -122,7 +122,7 @@ class ModelFactory
      *    id: int,
      *    name: string,
      *    slug: string,
-     *    family?: Family,
+     *    family?: array{ id: int, name: string, common_name: string|null, slug: string, division_order?: array, links: array{ "self"?: string, division_order?: string } },
      *    links: array{
      *        "self"?: string,
      *        family?: string
@@ -141,6 +141,17 @@ class ModelFactory
         );
     }
 
+    /**
+     * @param array{
+     *  id: int,
+     *  name: string,
+     *  common_name: string|null,
+     *  slug: string,
+     *  division_order?: array,
+     *  links: array{ "self"?: string, division_order?: string }
+     * } $data
+     * @return Family
+     */
     public function createFamily(array $data): Family
     {
         return new Family(
@@ -148,7 +159,7 @@ class ModelFactory
             $data['name'],
             $data['common_name'],
             $data['slug'],
-            isset($data['division_order']) ? $data['division_order'] : null,
+            $data['division_order'] ?? null,
             $data['links'],
         );
     }
@@ -321,7 +332,7 @@ class ModelFactory
      * @template T of BackedEnum
      * @param array<string|null> $data
      * @param class-string<T> $enumClass
-     * @return T[]
+     * @return list<T>
      */
     private function mapEnumList(array $data, string $enumClass): array
     {
@@ -333,7 +344,10 @@ class ModelFactory
                 continue;
             }
 
-            $enums[] = $enumClass::from($d);
+            /** @var T $enum */
+            $enum = $enumClass::from($d);
+
+            $enums[] = $enum;
         }
 
         return $enums;

@@ -7,6 +7,9 @@ namespace Trefle\Request;
 use Exception;
 use Trefle\Enumeration\Method;
 
+/**
+ * @psalm-consistent-constructor
+ */
 abstract class Request
 {
     private Method $method = Method::GET;

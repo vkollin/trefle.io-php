@@ -7,12 +7,12 @@ namespace Trefle\Response\Model\SubModel;
 class Images
 {
     /**
-     * @param Image[] $flower
-     * @param Image[] $leaf
-     * @param Image[] $habit
-     * @param Image[] $fruit
-     * @param Image[] $bark
-     * @param Image[] $other
+     * @param array<Image> $flower
+     * @param array<Image> $leaf
+     * @param array<Image> $habit
+     * @param array<Image> $fruit
+     * @param array<Image> $bark
+     * @param array<Image> $other
      */
     public function __construct(
         private readonly array $flower,

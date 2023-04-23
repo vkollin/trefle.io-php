@@ -6,8 +6,9 @@ namespace Trefle\Response\Model;
 
 class Meta
 {
-    public function __construct(private readonly int $total)
-    {
+    public function __construct(
+        private readonly int $total
+    ) {
     }
 
     public function getTotal(): int
